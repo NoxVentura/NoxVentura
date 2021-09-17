@@ -3,7 +3,7 @@
 
 # Hello, World! 👋
 
-</div>
+</div align=center>
 
 <p style=text-align:justify> Hi, I'm Nox, 18 years old and currently residing in Singapore. I'm (quite) fluent in JavaScript and Python. I had a brief taste in C# and Java, though I've never programmed anything else with them. I'm the creator of the SagaScript programming language. </p>
 
@@ -15,28 +15,31 @@
 
 <div align=center>
 
-## Preferences 
+## Favorites
 
 </div>
 
 - Pronouns: He/Him
 - Religion: Christian
 - Fun fact: I play drums.
-
-My editor config: 
-
-I 
-
-<!--  -->
+- Favorite games, lore-wise: 
+  - League of Legends 
+  - Warframe
+  - Final Fantasy
+  - Anthem 
+  - Destiny
+  - Halo 
+  - Doom
+- Favorite anime:
+  - One Punch Man
 
 <div align=center>
 
-## Contact Me 
+## Theme
 
-Instagram | Reddit
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nxltm&repo=inizio-theme)](https://github.com/nxltm/inizio-theme)
 
 </div>
-
 
 <div align=center>
 
@@ -44,15 +47,17 @@ Instagram | Reddit
 
 Check out my new programming language, **SagaScript**. 
 
-SagaScript is a _principled_ programming language intended to be a drop-in replacement for JavaScript, and compiles to it. It will offer new and powerful features, and a comprehensive standard library, providing everything you need to develop modern apps quicker and safer.
+[![SagaScript](https://github-readme-stats.vercel.app/api/pin/?username=nxltm&repo=sagascript)](https://github.com/nxltm/sagascript)
 
-SagaScript is heavily influenced by other modern languages, either through syntax or the standard library (in descending influence)
+<p style=text-align:justify> SagaScript is a <i> principled </i> programming language intended to be a drop-in replacement for JavaScript, and compiles to it. It will offer new and powerful features, and a comprehensive standard library, providing everything you need to develop modern apps quicker and safer. </p>
+
+<p style=text-align:justify> SagaScript is heavily influenced by other modern languages, either through syntax or the standard library (in descending influence): </p>
 
 ```txt
 Nim, Python, Swift, Scala, Go, Rust, TypeScript, Elixir, F#, OCaml, CoffeeScript, Haskell, Flix, C#, Kotlin, LiveScript, Bash, Smalltalk, YAML, Elm, Ada, Erlang, PureScript, Java. 
 ```
 
-I'll be willing to collaborate with someone to expand my ideas and help me complete the documentation. I've been working on the grammar from scratch for a month and a half now  
+<p style=text-align:justify> <b> I'll be willing to collaborate </b> with someone to expand my ideas and help me complete the documentation. I've been working on the grammar from scratch for a month and a half now. </p>
 
 </div>
 
@@ -91,22 +96,15 @@ export default function* fib<N extends Int>(...start: N[], term: N): N {
 };
 ```
 
-<div align=center>
-
-[![SagaScript](https://github-readme-stats.vercel.app/api/pin/?username=nxltm&repo=sagascript)](https://github.com/nxltm/sagascript)
-
-I
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nxltm&repo=inizio-theme)](https://github.com/nxltm/inizio-theme)
-
-</div>
-
-
-
 <!---
 nxltm/nxltm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+<div align=center>
 
-<style>.justify{text-align:justify}</style>
+## Contact Me / AMA
+
+Instagram | Reddit | Twitter (soon)
+
+</div>
