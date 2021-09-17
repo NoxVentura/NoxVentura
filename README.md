@@ -54,12 +54,33 @@ SagaScript is heavily influenced by other modern languages like Nim, Python, Typ
 rec gen def fib[N: int](*start: []N, term: N): N =
   if term of start:
     yield start[term - 1]
-  elif term >= len start:
+  elif term > len start:
     yield from in term - len start to term
       select x => fib start, x
       fold left (+)
   else:
-    throw new Error "Invalid term number"
+    raise new Error
+      "Invalid term in Fibonacci sequence"
+```
+
+(compiled result in TypeScript)
+
+```ts
+import S from "@Saga/core";
+import {len, range} from "@Saga/std";
+import {Int} from "@Saga/types";
+
+export default function* fib<N extends Int>(...start: N[], term: N): N {
+  if (term in start) {
+    yield start[term - 1];
+  } else if (term > len(start)) {
+    yield (range(term - len(start)).to(term) as S.Range)
+      .select(x => fib(start, x))
+      .foldLeft(($0, $1) => $0 + $1);
+  } else {
+    throw new Error("Invalid term in Fibonacci sequence");
+  }
+};
 ```
 
 <div align=center>
