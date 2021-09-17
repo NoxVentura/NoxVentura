@@ -2,7 +2,7 @@
 
 # Hello, World! 👋
 
-</div align=center>
+</div>
 
 <p style=text-align:justify> Hi, I'm Nox, 18 years old and currently residing in Singapore. I'm (quite) fluent in JavaScript and Python. I had a brief taste in C# and Java, though I've never programmed anything else with them. I'm the creator of the SagaScript programming language. </p>
 
