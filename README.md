@@ -19,9 +19,13 @@
 
 </div>
 
-- 😄 Pronouns: He/Him
-- ⛪ Religion: Christian
-- ⚡ Fun fact: I play drums.
+- Pronouns: He/Him
+- Religion: Christian
+- Fun fact: I play drums.
+
+My editor config: 
+
+I 
 
 <!--  -->
 
@@ -40,11 +44,15 @@ Instagram | Reddit
 
 Check out my new programming language, **SagaScript**. 
 
-SagaScript is a _principled_ programming language intended to be a drop-in replacement for JavaScript. 
+SagaScript is a _principled_ programming language intended to be a drop-in replacement for JavaScript, and compiles to it. It will offer new and powerful features, and a comprehensive standard library, providing everything you need to develop modern apps quicker and safer.
 
-It will offer new and powerful features, and a comprehensive standard library, providing everything you need to develop modern apps quicker and safer.
+SagaScript is heavily influenced by other modern languages, either through syntax or the standard library (in descending influence)
 
-SagaScript is heavily influenced by other modern languages like Nim, Python, TypeScript, Elixir, F#, OCaml, Swift, Scala, Go, Haskell, Rust, Kotlin, Bash and YAML. 
+```txt
+Nim, Python, Swift, Scala, Go, Rust, TypeScript, Elixir, F#, OCaml, CoffeeScript, Haskell, Flix, C#, Kotlin, LiveScript, Bash, Smalltalk, YAML, Elm, Ada, Erlang, PureScript, Java. 
+```
+
+I'll be willing to collaborate with someone to expand my ideas and help me complete the documentation. I've been working on the grammar from scratch for a month and a half now  
 
 </div>
 
@@ -87,9 +95,9 @@ export default function* fib<N extends Int>(...start: N[], term: N): N {
 
 [![SagaScript](https://github-readme-stats.vercel.app/api/pin/?username=nxltm&repo=sagascript)](https://github.com/nxltm/sagascript)
 
-I'm working on a novel in eirth riwhihei whiehiwh
+I
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nxltm&repo=2357)](https://github.com/nxltm/2357)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nxltm&repo=inizio-theme)](https://github.com/nxltm/inizio-theme)
 
 </div>
 
