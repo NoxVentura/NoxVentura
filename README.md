@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, name's Noel. Not a special name. 
+- 👋 Hi, name's Nox. Not a special name. 
 - 🔭 Diploma of IT at ***some polytechnic*** in Singapore
   - Currently doing an internship at an HR company
   - Going into the last semester of my diploma (this year is approaching fast!)
