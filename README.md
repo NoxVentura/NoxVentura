@@ -5,7 +5,8 @@
   - Currently doing an internship at an HR company
   - Going into the last semester of my diploma (this year is approaching fast!)
 - 👀 I'm interested in:
-  - 📖 **Reading** and 📝 **writing** (mainly sci-fi/dystopia): [2357: Hello World](https://github.com/nxltm/2357)
+  - 📖 **Reading** and 📝 **writing** (mainly sci-fi/dystopia)
+    - Check out my story ideas here: [2357](https://github.com/nxltm/2357)
   - 👤 **Digital / vector art** (starting out)
   - 🈂️ **Languages**
     - Posting on Nakta'ala soon
