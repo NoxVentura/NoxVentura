@@ -6,7 +6,7 @@
 
 ## About Me
 
-Welcome to my GitHub profile! I'm coding in mostly JavaScript, and sometimes in Python, and I'm interested in learning Kotlin and Scala, as those two are my favorites thus far. I'm still working as an intern in my third year of polytechnic college and am about to finish my third year of college.
+Welcome to my GitHub profile! I'm coding in mostly JavaScript, and sometimes in Python, and I'm interested in learning Kotlin and Scala, as those two are my favorites thus far. I'm still working as an intern and I'm about to finish my third year in due time.
 
 In my free time I make themes for Visual Studio Code and also making my own programming language which is based on the languages I already knew. I enjoy reading and writing my own short stories and trying to merge them into a novel. I play the drums too and I'm fond of character/concept art and game development and want to learn them in the future.
 
