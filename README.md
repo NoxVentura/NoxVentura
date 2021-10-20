@@ -6,14 +6,9 @@
 
 ## About Me
 
-I'm Nox (short for _nox ultima_ which means _final night_) and welcome to my Github profile. I program mostly in JavaScript and sometimes in Python and C#. Sometimes I would also take the time to learn other languages such as Kotlin, Scala and Go since those languages are some of my favorites.
+Welcome to my GitHub profile! I'm coding in mostly JavaScript, and sometimes in Python, and I'm interested in learning Kotlin and Scala, as those two are my favorites thus far. I'm still working as an intern in my third year of polytechnic college and am about to finish my third year of college.
 
-I'm still studying and working as an intern my third year of polytechnic. I'm going into the last semester of my diploma (this year is ending fast) and COVID-19 still feels like yesterday. I reopened this account as my previous one was taken down earlier this year.
-
-I'm currently working on my very own programming language, called Trinity, based on the idea that HTML, CSS and JavaScript should be united into a single language, framework and API, all while overcoming all of their shortcomings. I've been working on it since
-2020 and I've since been updating the grammar, docs and spec for it.
-
-I enjoy reading and writing my own short stories and trying to merge them into a novel. I play the drums too and I'm fond of character and concept art, and making games and want to learn them in the future.
+In my free time I make themes for Visual Studio Code and also making my own programming language which is based on the languages I already knew. I enjoy reading and writing my own short stories and trying to merge them into a novel. I play the drums too and I'm fond of character/concept art and game development and want to learn them in the future.
 
 ![NoxVentura's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoxVentura&theme=tokyonight)
 
@@ -43,9 +38,9 @@ Check out my new programming language, **Trinity**.
 
 </div>
 
-Trinity is an optionally typed, compiled, multi-paradigm and multi-faceted programming language implemented in JavaScript, enabling one to build reliable and fast-performing software for web, desktop and mobile; for the frontend, API and backend.
+**Trinity** is an open source, fully featured and agile language that enables developers, designers and testers to build, test and deploy their projects with less code, no matter the platform or runtime. It provides avenues to access huge ecosystems of libraries and runtimes, without the need for any installation.
 
-The language is very similar to Go, Swift, Kotlin or Scala, tied with a unified, comprehensive and clean API with minimal abstractions. These powerful features and APIs are supported out of the box, providing (almost) everything you need to develop modern applications that don't crash, quicker and safer.
+Out of the box, it provides a robust program verifier and type checker that flags any errors to you so you can catch bugs early, and comes with a unified and comprehensive API and core libraries for making everyday or specialised tasks easier.
 
 **I'll be willing to find someone to collaborate with** to expand my ideas and help me begin work on the implementation, after I complete the grammar and specification.
 
