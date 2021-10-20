@@ -32,15 +32,13 @@ I'm currently working on a brand new series of themes for Visual Studio Code (ex
 
 ## Trinity
 
-Check out my new programming language, **Trinity**.
+Check out my programming language, **Trinity**.
 
 [![Trinity](https://github-readme-stats.vercel.app/api/pin/?username=NoxVentura&repo=TrinityLang&theme=tokyonight)](https://github.com/NoxVentura/TrinityLang)
 
 </div>
 
 **Trinity** is an open source, fully featured and agile language that enables developers, designers and testers to build, test and deploy their projects with less code, no matter the platform or runtime. It provides avenues to access huge ecosystems of libraries and runtimes, without the need for any installation.
-
-Out of the box, it provides a robust program verifier and type checker that flags any errors to you so you can catch bugs early, and comes with a unified and comprehensive API and core libraries for making everyday or specialised tasks easier.
 
 **I'll be willing to find someone to collaborate with** to expand my ideas and help me begin work on the implementation, after I complete the grammar and specification.
 
