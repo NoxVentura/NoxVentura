@@ -29,7 +29,7 @@ I'm currently working on a brand new series of themes for Visual Studio Code (ex
 
 <div align=center>
 
-[![True Colors](https://github-readme-stats.vercel.app/api/pin/?username=NoxVentura&repo=true-colors&theme=tokyonight)](https://github.com/NoxVentura/true-colors)
+[![Trinity](https://github-readme-stats.vercel.app/api/pin/?username=NoxVentura&repo=TrueColors-VSCode&theme=tokyonight)](https://github.com/NoxVentura/TrueColors-VSCode)
 
 </div>
 
@@ -39,7 +39,7 @@ I'm currently working on a brand new series of themes for Visual Studio Code (ex
 
 Check out my new programming language, **Trinity**.
 
-[![Trinity](https://github-readme-stats.vercel.app/api/pin/?username=NoxVentura&repo=trinity-lang&theme=tokyonight)](https://github.com/NoxVentura/trinity-lang)
+[![Trinity](https://github-readme-stats.vercel.app/api/pin/?username=NoxVentura&repo=TrinityLang&theme=tokyonight)](https://github.com/NoxVentura/TrinityLang)
 
 </div>
 
