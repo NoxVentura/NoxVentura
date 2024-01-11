@@ -1,10 +1,6 @@
 # Wildan Shafeek Rahiman
 
 <br/>
-
- &nbsp; This page has been visited    [![HitCount](https://hits.dwyl.com/https://githubcom/NoxVentura/NoxVentura /READMEmd.svg?style=flat-square)](http://hits.dwyl.com/https://githubcom/NoxVentura/NoxVentura /READMEmd) times.
-
-<br/>
 <br/>
 I've been interested in tech and the community that surrounds it since I was quite young. I've probably been tinkering with computers since pre-K which I'm told is distinctive.
 
