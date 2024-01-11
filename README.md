@@ -2,7 +2,7 @@
 
 <br/>
 
- &nbsp; This page has been visited ![HitCount](https://hits.dwyl.com/dwyl/hits.svg?style=flat-square) times.
+ &nbsp; This page has been visited   [![HitCount](https://hits.dwyl.com/https://githubcom/NoxVentura/NoxVentura.svg?style=flat-square)](http://hits.dwyl.com/https://githubcom/NoxVentura/NoxVentura) times.
 
 <br/>
 <br/>
