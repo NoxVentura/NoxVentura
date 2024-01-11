@@ -1,9 +1,9 @@
 # Wildan Shafeek Rahiman
 
 <br/>
-```
+
  &nbsp; This page has been visited ![HitCount](https://hits.dwyl.com/dwyl/hits.svg?style=flat-square) times.
-```
+
 <br/>
 <br/>
 I've been interested in tech and the community that surrounds it since I was quite young. I've probably been tinkering with computers since pre-K which I'm told is distinctive.
