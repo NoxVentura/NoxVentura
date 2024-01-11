@@ -4,11 +4,28 @@ I've been interested in tech and the community that surrounds it since I was qui
 ## Tech Stack
 
 
-  - 💻 **Programming Languages**: C, Python, Java, Basic Assembly, MySQL, HTML, CSS, JavaScript and Scratch
-  - 🛠️ **Tools & FrameWorks**: Version control systems (Git), RegEx, React Js, React Native, VS Code
-- 💪 **Experience** with Android development, Arduino Programming, Databases, APIs, Web Dev and more.
+  - 💻 **Programming Languages**:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
+  - 🛠️ **Tools & FrameWorks**:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;&nbsp;
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
+![React.Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
+
+- 💪 **Experience** with Android development, Arduino Programming, Minor Robotics, Databases, Raspberry Pi, APIs, Basic Assembly, RegEx, Web Dev and more.
 - 🐧 **GNU/Linux** and **Open Source** enthusiast, general knowledge of CLI commands.
-- ⚔️ **Robofest 2017 Winner** [irobochakra-student-wins-international-event-in-florida-usa](https://yourcoimbatore.com/irobochakra-student-wins-international-event-in-florida-usa/)
+- ⚔️ **Robofest 2017 Winner** - [Irobochakra Student Wins International Event In Florida, USA](https://yourcoimbatore.com/irobochakra-student-wins-international-event-in-florida-usa/)
 
 ## Projects
 
