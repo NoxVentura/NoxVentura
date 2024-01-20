@@ -1,5 +1,5 @@
 # Wildan Shafeek Rahiman
-I've been interested in tech and the community that surrounds it since I was quite young. I've probably been tinkering with computers since pre-K which I'm told is distinctive.
+I've been interested in tech and the community that surrounds it since I was quite young. I've probably been tinkering with computers since pre-K.
 
 ## Tech Stack
 
