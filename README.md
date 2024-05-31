@@ -1,4 +1,4 @@
-# Wildan Shafeek Rahiman
+# Nox Ventura
 I've been interested in tech and the community that surrounds it since I was quite young. I've probably been tinkering with computers for way too long.
 
 ## Tech Stack
